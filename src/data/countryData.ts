@@ -158,7 +158,7 @@ export const defaultCountries: CountryData[] = [
   ['Jamaica', 'jm', '1876'],
   ['Japan', 'jp', '81', '.. .... ....'],
   ['Jordan', 'jo', '962'],
-  ['Kazakhstan', 'kz', '7', '... ...-..-..', 0],
+  ['Kazakhstan', 'kz', '77', '... ...-..-..', 0],
   ['Kenya', 'ke', '254'],
   ['Kiribati', 'ki', '686'],
   ['Kosovo', 'xk', '383'],
